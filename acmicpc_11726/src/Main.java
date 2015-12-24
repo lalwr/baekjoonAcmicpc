@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  * Created by admin on 2015-12-24.
  * https://www.acmicpc.net/problem/11726 2×n 타일링
+ * 참고 url : http://minhard.blogspot.kr/2015/01/java_22.html
  */
 public class Main {
     public int[] m=new int[1001];
