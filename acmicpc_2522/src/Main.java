@@ -1,5 +1,6 @@
 /**
  * Created by admin on 2016-02-03.
+ * https://www.acmicpc.net/problem/2522 별찍기 - 12
  */
 import java.util.*;
 
